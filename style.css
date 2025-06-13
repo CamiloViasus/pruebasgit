@@ -2,6 +2,7 @@
     color: blue;
 }
 
-#parrafo:hover {
-    color: red;
+#text:hover {
+    color: red; background-color: grey;
 }
+
